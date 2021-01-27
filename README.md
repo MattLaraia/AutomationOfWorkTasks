@@ -1,6 +1,6 @@
 # AutomationOfWorkTasks
-The first program automatically logs a new user into the system (main file of users) and creates a personal file for them in the specified directory.
+The first application automatically logs a new user into the system (main file of all patients) and creates a personal file for them in the specified directory.
 
-Progress:
-
-Can make folder and file for new users and can access proper excel file but still working on accessing apache.poi thru Maven.  After this I can perform all excel operations.
+TODO:
+First program working but the option to change the directory to place patients has not been implemented
+Make a second application that can compare/remove patient visit dates on the main sheets if shown they have been paid on the personal sheets.
